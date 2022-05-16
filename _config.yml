@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Fur
+title: Prusaat
 url: "http://turquoise-rook.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -11,14 +11,14 @@ snipcart_currency: "usd"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Fur t-shirt store
+description: Prusaat | Zamandan Fazlası
 author:
-  name: fur
-  email: fur@example.com
+  name: prusaat
+  email: prusaat@gmail.com
   twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
+  phone: "+90 xxxxxxxx"
 social:
-  name: Fur Template
+  name: Prusaat | Zamandan Fazlası
   links:
     - https://github.com/CloudCannon/fur-jekyll-template
 
