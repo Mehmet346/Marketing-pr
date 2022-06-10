@@ -17,5 +17,6 @@ sizes:
   - Large
   - XL
 styles:
+  - name: Black
+    color: '#000000'
     image: /images/products/deer/DSC0848.JPG
----
