@@ -1,4 +1,4 @@
 ---
-name: Ava Sandler
-image_path: https://unsplash.it/600/800?image=1062
+name: Melek Boztaş
+image_path: images/Melek_Boztas.jpeg
 ---
