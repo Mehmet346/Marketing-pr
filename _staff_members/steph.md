@@ -1,4 +1,4 @@
 ---
-name: Steph Poco
-image_path: https://unsplash.it/600/800?image=823
+name: Mehmet Uludağ
+image_path: /images/Mehmet_Kus.jpeg
 ---
