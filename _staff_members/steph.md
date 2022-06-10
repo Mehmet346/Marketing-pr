@@ -1,4 +1,4 @@
 ---
 name: Mehmet Uludağ
-image_path: /images/Mehmet_Kus.jpeg
+image_path: /images/Mehmet_Uludag.jpeg
 ---
