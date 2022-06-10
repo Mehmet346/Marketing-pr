@@ -17,10 +17,6 @@ sizes:
   - Large
   - XL
 styles:
-  - name: Cream
-    color: '#dfd3c2'
-    image: /images/products/elephant/cream.jpg
-  - name: Green
-    color: '#67aa79'
-    image: /images/products/elephant/green.jpg
+  - name: 
+    image: /images/products/elephant/cream.jp
 ---
