@@ -6,19 +6,8 @@ description_markdown: >-
   Ekran boyutu; 2,5 cm
   2,5 cm
 
-
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-price: '9.00'
 sku: PS 002
-stock: 10
-sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
 styles:
   - name: Black
     color: '#000000'
