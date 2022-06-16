@@ -19,8 +19,8 @@ sizes:
 styles:
   - name: Green
     color: '#67aa79'
-    image: /images/products/urun_3/image_1.JPG
+    image: /images/products/urun_3/image_2.JPG
   - name: Green
     color: '#67aa79'
-    image: /images/products/urun_3/image_2.JPG
+    image: /images/products/urun_3/image_1.JPG
 ---
