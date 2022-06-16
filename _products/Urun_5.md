@@ -1,22 +1,14 @@
 ---
-name: Todd the Hedgehog
+name: AYAKLI VİNTAGE SAAT
 description_markdown: >-
-  Todd the hedgehog may have a spiky exterior but his heart is made of gold.
-  Unfortunately this weighs him down and makes it difficult for him to get
-  around.
+  Ürün Kodu; PS 009
+  Saat boyutu; 35 cm                            
+  Saatin eni; 29 cm                                                   
+  Kalınlığı; 7 cm
 
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-price: '9.00'
-sku: urun_5
-stock: 10
-sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
+price: ''
+sku: PS 009
 styles:
   - name: Clay
     color: '#000000'
