@@ -1,8 +1,8 @@
-- name: Ürünler
+- name: Anasayfa
   link: /
   new_window: false
   highlight: false
-- name: Ekip
+- name: Hakkımızda
   link: /about/
   new_window: false
   highlight: false
