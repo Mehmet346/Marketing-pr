@@ -18,9 +18,9 @@ sizes:
   - XL
 styles:
   - name: Blue
-    color: '#39589e'
+    color: '#000000'
     image: /images/products/urun_4/image_1.jpeg
   - name: Blue
-    color: '#39589e'
+    color: '#dfd3c2'
     image: /images/products/urun_4/image_2.jpeg
 ---
