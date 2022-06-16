@@ -1,0 +1,27 @@
+---
+name: Sacha the Deer
+description_markdown: >-
+  Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
+  this majestic beast and feel all your problems float away.
+
+
+
+  Slim Fit, 5oz 100% Cotton T-Shirt.
+garment_type:
+price: '9.00'
+sku: urun_1
+stock: 10
+sizes:
+  - Small
+  - Medium
+  - Large
+  - XL
+styles:
+  - name: Black
+    color: '#000000'
+    image: /images/products/urun_1/image_1.JPG
+  
+  - name: Blue
+    color: '#000000'
+    image: /images/products/urun_1/image_2.JPG
+---
