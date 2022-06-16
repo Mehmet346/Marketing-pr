@@ -12,7 +12,7 @@ description_markdown: >-
   Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
 price: '9.00'
-sku: urun_1
+sku: PS 002
 stock: 10
 sizes:
   - Small
