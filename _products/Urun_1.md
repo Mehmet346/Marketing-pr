@@ -20,4 +20,8 @@ styles:
   - name: Black
     color: '#000000'
     image: /images/products/urun_1/image_1.JPG
+    
+  - name: Black
+    color: '#000000'
+    image: /images/products/urun_1/image_2.JPG
 ---
