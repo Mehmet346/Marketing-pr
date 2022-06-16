@@ -1,9 +1,9 @@
 ---
 name: ERKEK GRİ - SİYAH SAAT
 description_markdown: >-
-  Ürün Kodu; PS 002
-  Kol saati boyutu; 23 cm
-  Ekran boyutu; 2,5 cm
+  Ürün Kodu; PS 002                                     
+  Kol saati boyutu; 23 cm                    
+  Ekran boyutu; 2,5 cm                   
   2,5 cm
 
 garment_type:
