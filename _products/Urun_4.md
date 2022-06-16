@@ -19,8 +19,8 @@ sizes:
 styles:
   - name: Blue
     color: '#39589e'
-    image: /images/products/urun_4/image_1.JPG
+    image: /images/products/urun_4/image_1.jpeg
   - name: Blue
     color: '#39589e'
-    image: /images/products/urun_4/image_2.JPG
+    image: /images/products/urun_4/image_2.jpeg
 ---
