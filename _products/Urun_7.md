@@ -1,21 +1,14 @@
 ---
-name: Gavin the Tiger
+name: ÇİNİ MASA SAATLERİ
 description_markdown: >-
-  Gavin the tiger was brought up vegan. His favorite meal is chickpea salad with
-  a lemon juice dressing.
-
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Ürün Kodu; 27X30
+  Kol saati boyutu; 23 cm
+  Ekran boyutu; 2,5 cm
+  2,5 cm
 garment_type:
-price: '9.00'
-sku: urun_7
-stock: 10
-sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
+price: ''
+sku: 27X30
+
 styles:
   - name: Black
     color: '#000000'
