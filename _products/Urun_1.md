@@ -1,8 +1,11 @@
 ---
-name: Sacha the Deer
+name: ERKEK GRİ - SİYAH SAAT
 description_markdown: >-
-  Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
-  this majestic beast and feel all your problems float away.
+  Ürün Kodu; PS 002
+  Kol saati boyutu; 23 cm
+  Ekran boyutu; 2,5 cm
+  2,5 cm
+
 
 
 
