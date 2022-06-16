@@ -1,21 +1,16 @@
 ---
-name: Bumble the Elephant
+name: KADIN GRİ - SİYAH SAAT
 description_markdown: >-
-  Bumble the humble elephant is your shining star. He will always remember who
-  you are and why you are here.
+  Kol saati boyutu; 23 cm
+  Ekran boyutu; 2,5 cm
+  2,5 cm
 
 
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-price: '9.00'
-sku: urun_2
+price: ''
+sku: PS 002
 stock: 10
-sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
+
 styles:
   - name: Cream
     color: '#dfd3c2'
