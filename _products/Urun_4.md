@@ -1,21 +1,12 @@
 ---
-name: Scar the Lion
+name: AYNALI DUVAR SAAT
 description_markdown: >-
-  Scar the lion is always true to himself. The Mufasa tragedy was a slight
-  blemish in what was otherwise a saint-like life.
-
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Ürün Kodu; PS 008                                                    
+  AYNALI DUVAR SAAT                                               
+  Ürün Kodu; PS 008
 garment_type:
-price: '9.00'
-sku: urun_4
-stock: 10
-sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
+price: ''
+sku: PS 008
 styles:
   - name: Blue
     color: '#000000'
