@@ -1,21 +1,17 @@
 ---
-name: Gerald the Giraffe
+name: AYNALI PLAKET
 description_markdown: >-
-  Gerald the giraffe isn't particularly spiritual but he has a long neck which
-  can help you in a pinch.
+  HEDİYE İÇİN DOĞRU BİR SEÇİM
+  Aynanın eni; 23 cm 
+  Aynanın boyu; 15,5 cm
+  Plaketin eni; 25,5 cm
+  Plaketin boyu; 19 cm
+  Plaketin kalınlığı; 5 cm
 
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-price: '9.00'
-sku: urun_3
-stock: 10
-sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
+price: ''
+sku: PS 005
+
 styles:
   - name: Green
     color: '#000000'
