@@ -21,6 +21,6 @@ styles:
     color: '#000000'
     image: /images/products/urun_6/image_1.JPG
   - name: Black
-    color: '#000000'
+    color: '#dfd3c2'
     image: /images/products/urun_6/image_2.JPG
 ---
