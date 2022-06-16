@@ -18,9 +18,9 @@ sizes:
   - XL
 styles:
   - name: Green
-    color: '#67aa79'
+    color: '#000000'
     image: /images/products/urun_3/image_2.JPG
   - name: Green
-    color: '#67aa79'
+    color: '#dfd3c2'
     image: /images/products/urun_3/image_1.JPG
 ---
