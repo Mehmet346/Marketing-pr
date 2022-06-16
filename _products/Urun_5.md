@@ -19,9 +19,9 @@ sizes:
   - XL
 styles:
   - name: Clay
-    color: '#9c5145'
+    color: '#000000'
     image: /images/products/urun_5/image_1.JPG
   - name: Blue
-    color: '#39589e'
+    color: '#dfd3c2'
     image: /images/products/urun_5/image_2.JPG
 ---
