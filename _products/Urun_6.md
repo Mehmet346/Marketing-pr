@@ -1,21 +1,13 @@
 ---
-name: Gavin the Tiger
+name: DEKORATİF SAAT
 description_markdown: >-
-  Gavin the tiger was brought up vegan. His favorite meal is chickpea salad with
-  a lemon juice dressing.
+  Ürün Kodu; PS 006                                                           
+  
+  Masa saati boyutu; 33 cm
 
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-price: '9.00'
+price: ''
 sku: urun_6
-stock: 10
-sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
 styles:
   - name: Black
     color: '#000000'
